@@ -73,4 +73,10 @@ cout<<"size " << sizeof(h1)<<endl;
 greedy g;
 
 cout<<sizeof(g);
+
+
+// static allocation 
+Hero h2;
+
+
 }
